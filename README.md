@@ -20,12 +20,12 @@ Course website:https://homes.cs.washington.edu/~djg/
     * Type synonyms
     * Polymorphic datatypes
     * Nested patterns
-    * Tail recursions
+    * __Tail recursions__
 	* Exceptions
 
 3. _Part A Week 4(Standard ML):_
     * Anonymous functions
-    * Lexical scope and __closures__
+    * __Lexical scope__ and __closures__
     * __Currying__
     * Mutable references
     * Callbacks
@@ -46,7 +46,7 @@ Course website:https://homes.cs.washington.edu/~djg/
     * __Dynamic typing__
     * Local and top-level bindings
     * Mutation
-    * __Delayed evaluation and thunks__ 
+    * __Delayed evaluation__ and __thunks__ 
     * Streams use and definition
     * Memoization
 	* Macros: The Key Points
@@ -58,7 +58,7 @@ Course website:https://homes.cs.washington.edu/~djg/
     * Implementing variables and closures
 
 7. _Part B Week 3(Racket):_
-    * Static typing v.s. dynamic typing
+    * __Static typing__ v.s. __dynamic typing__
     * Weak typing
     * The soundness and completeness of a type system, undecidability
 	* eval and quote
@@ -79,7 +79,7 @@ Course website:https://homes.cs.washington.edu/~djg/
 9. _Part C Week 2(Ruby):_
     * OOP v.s. functional decomposition
     * Adding methods or variants
-    * __Double dispatch__
+    * Double dispatch
     * Multiple inheritance
     * Mixins
     * Interfaces
