@@ -37,7 +37,7 @@ Course website:https://homes.cs.washington.edu/~djg/
     * Mutual recursion
     * SML module systems
     * Signatures
-    * __Implementing ADTs with signatures and modules__
+    * Implementing ADTs with signatures and modules
     * Equivalence
 
 5. _Part B Week 1(Racket):_
