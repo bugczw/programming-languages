@@ -70,7 +70,7 @@ Course website:https://homes.cs.washington.edu/~djg/
         * Object states, class variables, class constants, class methods
         * Visibility
         * Class definitions are dynamic
-        * Duck typing
+        * __Duck typing__
         * Subclassing and overriding
         * __Dynamic Dispatch__
     * Arrays, Hashes and Ranges
